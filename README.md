@@ -1,16 +1,33 @@
-## Hi there 👋
+# About Me
+## I'm a high-schooler based in Kazakhstan currently learning DevOps technologies.
 
-<!--
-**lancinant/lancinant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contact me:
+## Email: l4nc1nant@gmail.com
+## Discord: @lancinant
+## Telegram: t.me/lancinant
 
-Here are some ideas to get you started:
+## Currently my background includes:
+- Linux (Ubuntu)
+- GCP, Azure, Yandex Cloud,
+- Terraform with Hyper-V provider
+- Ansible, Ansible vault
+- Monitoring with Grafana and Prometheus (cAdvisor, node_exporter, windows_exporter, loki, alertmanager)
+- Tailscale (deployed Headscale and authorized a tailnet)
+- Cloudflared with WAF
+- Docker
+- Caddy, Nginx Reverse Proxy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## In progress:
+- Gitlab CI / GitHub Actions
+- PostgreSQL
+- Redis
+- GraphQL
+- Kubernetes / k3s
+
+## Homelab services:
+- Navidrome, yubal 
+- TeamSpeak server
+- Jellyfin (pending migration to prowlarr) with Jackett, Sonarr, Radarr
+- Previously mentined monitoring stack
+- k3s/k8s pending
+
