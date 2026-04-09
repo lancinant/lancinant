@@ -1,33 +1,32 @@
 # About Me
-## I'm a high-schooler based in Kazakhstan currently learning DevOps technologies.
+## High school student based in Kazakhstan, currently learning DevOps technologies
 
-# Contact me:
-## Email: l4nc1nant@gmail.com
-## Discord: @lancinant
-## Telegram: t.me/lancinant
+# Contact information:
+- Email: l4nc1nant@gmail.com
+- Discord: @lancinant
+- Telegram: https://t.me/lancinant
 
-## Currently my background includes:
+# My background includes:
 - Linux (Ubuntu)
-- GCP, Azure, Yandex Cloud,
+- GCP, Azure, Yandex Cloud, DigitalOcean
 - Terraform with Hyper-V provider
-- Ansible, Ansible vault
-- Monitoring with Grafana and Prometheus (cAdvisor, node_exporter, windows_exporter, loki, alertmanager)
-- Tailscale (deployed Headscale and authorized a tailnet)
+- Ansible, Ansible Vault
+- Monitoring: Grafana, Prometheus (cAdvisor, node_exporter, windows_exporter, Loki, Alertmanager)
+- Tailscale (Headscale deployment, tailnet authorization)
 - Cloudflared with WAF
 - Docker
-- Caddy, Nginx Reverse Proxy
+- Caddy, Nginx reverse proxy
 
-## In progress:
-- Gitlab CI / GitHub Actions
+# In Progress
+- GitLab CI / GitHub Actions
 - PostgreSQL
 - Redis
 - GraphQL
 - Kubernetes / k3s
 
-## Homelab services:
-- Navidrome, yubal 
+# Homelab Services
+- Navidrome, Yubal
 - TeamSpeak server
-- Jellyfin (pending migration to prowlarr) with Jackett, Sonarr, Radarr
-- Previously mentined monitoring stack
-- k3s/k8s pending
-
+- Jellyfin (pending migration to Prowlarr) with Jackett, Sonarr, Radarr
+- Monitoring stack (as listed above)
+- k3s / k8s (pending)
