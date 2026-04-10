@@ -1,4 +1,4 @@
-![Banner](baanner.png)
+![Banner](banner.png)
 
 ## High school student based in Kazakhstan, currently learning DevOps technologies
 
