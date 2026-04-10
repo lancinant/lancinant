@@ -1,4 +1,5 @@
-# About Me
+![Banner](readme.md.png)
+
 ## High school student based in Kazakhstan, currently learning DevOps technologies
 
 # Contact information:
