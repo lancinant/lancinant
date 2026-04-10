@@ -1,4 +1,4 @@
-![Banner](readme.md.png)
+![Banner](baanner.png)
 
 ## High school student based in Kazakhstan, currently learning DevOps technologies
 
