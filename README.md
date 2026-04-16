@@ -9,25 +9,23 @@
 
 # My background includes:
 - Linux (Ubuntu)
-- GCP, Azure, Yandex Cloud, DigitalOcean
-- Terraform with Hyper-V provider
+- Basic experience of deploying GCP, Azure, Yandex Cloud, DigitalOcean
+- Terraform provisioning with Hyper-V provider
 - Ansible, Ansible Vault
 - Monitoring: Grafana, Prometheus (cAdvisor, node_exporter, windows_exporter, Loki, Alertmanager)
 - Tailscale (Headscale deployment, tailnet authorization)
-- Cloudflared with WAF
-- Docker
-- Caddy, Nginx reverse proxy
+- Cloudflared
+- Docker (docker-compose)
+- Setting up Caddy, Nginx reverse proxy
 
 # In Progress
 - GitLab CI / GitHub Actions
-- PostgreSQL
-- Redis
-- GraphQL
 - Kubernetes / k3s
-
+- AWS
 # Homelab Services
 - Navidrome, Yubal
 - TeamSpeak server
 - Jellyfin (pending migration to Prowlarr) with Jackett, Sonarr, Radarr
 - Monitoring stack (as listed above)
 - k3s / k8s (pending)
+
