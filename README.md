@@ -10,7 +10,7 @@
 - Telegram: https://t.me/lancinant
 
 # Skills & Experience
-- **OS:** Linux (Ubuntu), Windows 
+- **OS:** Linux (Ubuntu, Debian), Windows 
 - **IaC:** Terraform (Hyper-V provider), Ansible, Ansible Vault
 - **Containers:** Docker, Docker Compose
 - **Orchestration:** Kubernetes (kubeadm)
