@@ -45,3 +45,4 @@ Full infrastructure-as-code provisioning of a three-host homelab (VMware, Hyper-
 # In Progress
 - Kubernetes cluster (kubeadm, ctl01 + wrk02)
 - GitLab CI/CD pipeline for portfolio deployment
+- Monitoring stack migration to cloud
