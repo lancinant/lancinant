@@ -1,5 +1,5 @@
 ![Banner](readme.md.png)
-### High school student based in Kazakhstan, pursuing DevOps engineering
+### Pursuing DevOps engineering
 # Contact
 - Email: l4nc1nant@gmail.com
 - Discord: @lancinant
