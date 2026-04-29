@@ -35,14 +35,9 @@ Full infrastructure-as-code provisioning of a three-host homelab (VMware, Hyper-
 ### Homelab Services
 - Jellyfin with Sonarr, Radarr, Jackett
 - TeamSpeak server via LinuxGSM
-- Full monitoring stack (Prometheus, Grafana, Loki, Alertmanager, Alloy)
+- Full monitoring stack (Prometheus, Grafana, Loki, Alertmanager, Alloy) deployed in the cloud for HA
 - Navidrome music streaming with HAProxy failover
-# Problems Solved
-- **Loki schema migration** — Migrated from v11 boltdb-shipper to v13 tsdb after EOL, resolving structured metadata ingestion failures without data loss.
-- **Promtail to Alloy migration** — Replaced EOL Promtail with Grafana Alloy across all hosts, preserving existing Loki pipelines.
-- **Docker IPv6 conflict** — Disabled IPv6 on the Docker network for nav01 to resolve yt-dlp connectivity failures caused by broken IPv6 routing.
-- **Syncthing bind mount resolution** — Resolved Docker Compose bind mount path misresolution causing Syncthing to mount an empty root-owned directory instead of the music library.
 # In Progress
-- Kubernetes cluster (kubeadm, ctl01 + wrk02)
+- Kubernetes cluster (ctl01 + wrk02 + wrk01)
 - GitLab CI/CD pipeline for portfolio deployment
-- Monitoring stack migration to cloud
+
