@@ -32,5 +32,7 @@ Self-hosted TeamSpeak server running via LinuxGSM on ts01. Publicly accessible o
 - Kubernetes cluster (ctl01 + wrk02 + wrk01)
 - GitLab CI/CD pipeline for portfolio deployment
 - Github Actions for CI/CD
+- K8s at operational level (replicas, controllers, etc.)
+
 
 
