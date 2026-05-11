@@ -33,6 +33,10 @@ Self-hosted TeamSpeak server running via LinuxGSM on ts01. Publicly accessible o
 - GitLab CI/CD pipeline for portfolio deployment
 - Github Actions for CI/CD
 - K8s at operational level (replicas, controllers, etc.)
+# Future plans
+- Scripting in Go/Python
+- Advanced IaC
+- RHL administration (Almalinux, Rocky)
 
 
 
