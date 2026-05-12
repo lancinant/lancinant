@@ -1,6 +1,5 @@
-# lancinant
 
-**Pursuing DevOps Engineering**
+# **Pursuing DevOps Engineering**
 
 ![Banner](banner.png)
 
