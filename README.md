@@ -1,4 +1,4 @@
-![Banner](readme.md.png)
+![Banner](banner.png)
 ### Pursuing DevOps engineering
 # Contact
 - Email: l4nc1nant@gmail.com
