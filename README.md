@@ -1,5 +1,6 @@
 # lancinant
 **DevOps Engineer**
+![Banner](banner.png)
 
 Email: l4nc1nant@gmail.com | Discord: @lancinant | Telegram: https://t.me/lancinant
 
