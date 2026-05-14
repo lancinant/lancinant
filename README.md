@@ -27,7 +27,7 @@ Email: l4nc1nant@gmail.com | Discord: @lancinant | Telegram: https://t.me/lancin
 ## Projects
 
 ### Portfolio Site *(in progress)*
-Self-hosted portfolio deployed on a k3s cluster with a local control plane (ctl01) and a cloud worker node on OCI (wrk02), connected over Tailscale. GitLab CI pipeline builds a Docker image, pushes to a self-hosted Harbor registry, and applies Kubernetes manifests on every push to main. Publicly exposed via Cloudflare Tunnel without opening cloud firewall ports. Harbor HTTPS termination via Tailscale Serve.
+Self-hosted portfolio deployed on a k3s cluster with a local control plane and a cloud worker node on OCI, connected over Tailscale. GitLab CI pipeline builds a Docker image, pushes to a self-hosted Harbor registry, and applies Kubernetes manifests on every push to main. Publicly exposed via Cloudflare Tunnel without opening cloud firewall ports. Harbor HTTPS termination via Tailscale Serve.
 
 `k3s` `GitLab CI` `Harbor` `Tailscale` `Cloudflare Tunnel` `OCI`
 
@@ -37,7 +37,7 @@ Self-hosted Navidrome service with full high availability. HAProxy on a dedicate
 `Navidrome` `HAProxy` `Syncthing` `Cloudflare Tunnel` `Prometheus` `Grafana` `OCI`
 
 ### TeamSpeak Server
-Self-hosted TeamSpeak running via LinuxGSM on ts01. Publicly accessible on a free domain registered through DigitalPlat, with Cloudflare DDNS keeping the DNS record updated as the home IP changes. Uptime monitored via Uptime Kuma.
+Self-hosted TeamSpeak running via LinuxGSM. Publicly accessible on a free domain registered through DigitalPlat, with Cloudflare DDNS keeping the DNS record updated as the home IP changes. Uptime monitored via Uptime Kuma.
 
 `TeamSpeak` `LinuxGSM` `Cloudflare DDNS` `Uptime Kuma`
 
@@ -54,10 +54,11 @@ Self-hosted TeamSpeak running via LinuxGSM on ts01. Publicly accessible on a fre
 
 ## In Progress
 
-- Kubernetes cluster (ctl01 + wrk02 + wrk01)
+- Kubernetes cluster with two workers
 - GitLab CI/CD pipeline for portfolio deployment
 - GitHub Actions for CI/CD
 - K8s at operational level (replicas, controllers, etc.)
+- Docker In-Depth
 
 ---
 
