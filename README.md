@@ -26,7 +26,7 @@ Email: l4nc1nant@gmail.com | Discord: @lancinant | Telegram: https://t.me/lancin
 
 ## Projects
 
-### Portfolio Site *(in progress)*
+### Portfolio Site 
 Self-hosted portfolio deployed on a k3s cluster with a local control plane and a cloud worker node on OCI, connected over Tailscale. GitLab CI pipeline builds a Docker image, pushes to a self-hosted Harbor registry, and applies Kubernetes manifests on every push to main. Publicly exposed via Cloudflare Tunnel without opening cloud firewall ports. Harbor HTTPS termination via Tailscale Serve.
 
 `k3s` `GitLab CI` `Harbor` `Tailscale` `Cloudflare Tunnel` `OCI`
